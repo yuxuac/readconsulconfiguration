@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadConsulConfiguration", "ReadConsulConfiguration\ReadConsulConfiguration.csproj", "{AD576ECF-8191-4ABB-AE69-D726E6F8AB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD576ECF-8191-4ABB-AE69-D726E6F8AB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD576ECF-8191-4ABB-AE69-D726E6F8AB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD576ECF-8191-4ABB-AE69-D726E6F8AB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD576ECF-8191-4ABB-AE69-D726E6F8AB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF61C3C-9F5B-470D-920B-88D834BE5EC0}
+	EndGlobalSection
+EndGlobal
